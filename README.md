@@ -1,3 +1,21 @@
+# Technologies Used
+For Front end, used React 
+
+For backend I am using Node.js + Express.js -> API
+MongoDB for Database
+Mongoose -> ORM for MongoDB
+
+express → API framework
+
+mongoose → connect to MongoDB
+
+cors → allow frontend to call backend
+
+dotenv → manage environment variables
+
+nodemon → auto-restart server during development
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
